@@ -15,7 +15,7 @@ Das Problem welches im Folgenden mit einem genetischen Algorithmus gelöst wird,
 
 Es bewegt sich ein Stateless-Roboter (ohne Gedächtnis) auf einem Spielfeld von 10x10 Feldern.
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/359b435a1ce161e65a9c3ade061547ded1d8df36/robot_visual_gifs/ga_robot_gen_387.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_10.gif" width="350">
 
 Auf jedem Feld liegt eine Dose(Blaue Felder) mit einer Wahrschenilichkeit von 50% .
 Die Aufgabe des Roboters ist es das Spielfeld von den Dosen zu säubern(Blau zu Weiß). 
