@@ -15,7 +15,7 @@ Das Problem welches im Folgenden mit einem genetischen Algorithmus gelöst wird,
 
 Es bewegt sich ein Stateless-Roboter (ohne Gedächtnis) auf einem Spielfeld von 10x10 Feldern.
 
-<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_10.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_387.gif" width="350">
 
 Auf jedem Feld liegt eine Dose(Blaue Felder) mit einer Wahrschenilichkeit von 50% .
 Die Aufgabe des Roboters ist es das Spielfeld von den Dosen zu säubern(Blau zu Weiß). 
@@ -108,24 +108,24 @@ Mit der Wahrscheinlichkeit p_mutation werden die Eintrage der Handlunsgweisen zu
 Mit dem Skipt `'visualisieren_robot_skript'` wird eine unter Auswahl einer Generation, einer Runde des putzenden Roboters visulaisiert. Unten stehened sind 3 gifs aus unterschiedlichen Generationen abgebildet.
 
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/359b435a1ce161e65a9c3ade061547ded1d8df36/robot_visual_gifs/ga_robot_gen_2.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_2.gif" width="350">
 
 Generation = 2
 
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/359b435a1ce161e65a9c3ade061547ded1d8df36/robot_visual_gifs/ga_robot_gen_50.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_50.gif" width="350">
 
 Generation = 50
 
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/359b435a1ce161e65a9c3ade061547ded1d8df36/robot_visual_gifs/ga_robot_gen_120.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_120.gif" width="350">
 
 Generation = 120
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/359b435a1ce161e65a9c3ade061547ded1d8df36/robot_visual_gifs/ga_robot_gen_387.gif" width="350">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_387.gif" width="350">
 
 Generation = 387
 
 Während dem Skipt ga_robot wird die Fitness über der Generation aufgetragen ( in rot die maximale Fitness der generation, in blau der Median der Fitness). Damit sieht man den Fortschritt des Roboters bis zur maximal möglichen Fitness von 500 (da im Schnitt 50 Dosen auf dem Spielfeld liegen und eine Dose 10 Punkte bringt, beträgt die maximale fitness 500)
 
-<img src="https://git.rwth-aachen.de/marco.schnieders/genetischer-algorithmus-fuer-stateless-roboter/-/raw/main/git_plot.jpg" width="500">
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/git_plot.jpg" width="500">
