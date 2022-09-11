@@ -3,8 +3,7 @@
 Das Problem welches im Folgenden mit einem genetischen Algorithmus gelöst wird, stammt aus dem Buch Complexity von Melanie Mitchell.
 
 
-<img src="/uploads/3ebb2e2e5c7f5395cb5ebbb1697209f4/Complexity.jpg" width="200">
-
+<img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/Complexity.jpg" width="200">
 
 
 
