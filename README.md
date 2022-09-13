@@ -104,7 +104,7 @@ Mit der Wahrscheinlichkeit p_mutation werden die Eintrage der Handlunsgweisen zu
 
 **Visualisierung**
 
-Mit dem Skipt `'visualisieren_robot_skript'` wird eine unter Auswahl einer Generation, einer Runde des putzenden Roboters visulaisiert. Unten stehened sind 3 gifs aus unterschiedlichen Generationen abgebildet.
+Mit dem Skipt `'visualisieren_robot_skript'` wird eine unter Auswahl einer Generation, einer Runde des putzenden Roboters visulaisiert. Unten stehened sind 4 gifs aus unterschiedlichen Generationen abgebildet.
 
 
 <img src="https://raw.githubusercontent.com/testkompa/genetischer_algoritmus_roboter/main/visualisierung/ga_robot_gen_2.gif" width="350">
